@@ -29,10 +29,3 @@ baseurl: ""
 #    share_url: //www.facebook.com/sharer.php
 #    share_title:
 #    share_link:
-
-- icon:	github
-  url:	https://github.com/bodhiconnolly
-  desc:	Fork me on github
-  share_url:
-  share_title:
-  share_link:
