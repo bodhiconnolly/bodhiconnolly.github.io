@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-
 ## I Love making things.
 
 I'm first and foremost a mechatronic engineering student at the University of Queensland, Australia. I focus on the harmony of software and electrical components. I love taking on extra projects in this area (particularly when flashing lights are involved!) and will be documenting such projects here.
