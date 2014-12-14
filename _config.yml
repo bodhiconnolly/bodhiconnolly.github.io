@@ -23,13 +23,6 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	mail
-    url:	mailto:contact@bodhiconnolly.com
-    desc:	Email me
-    share_url:
-    share_title:
-    share_link:
-
   - icon:	youtube
     url:	https://youtube.com/user/bodhiconnolly
     desc:	Subscribe on youube
