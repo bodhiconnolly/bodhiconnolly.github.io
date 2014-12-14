@@ -16,7 +16,7 @@ name: 'Bodhi Connolly'
 author: 'Bodhi Connolly'
 author_image: "/assets/images/author.jpg"
 
-paginate:	5
+paginate: 5
 
 url: "http://bodhiconnolly.com" # the base hostname & protocol for your site
 baseurl: ""
@@ -37,28 +37,28 @@ baseurl: ""
 #    share_title: ?t=
 #    share_link: "&amp;u="
 
-  - icon:	youtube
-    url:	https://youtube.com/user/bodhiconnolly
-    desc:	Add me on youtube
-    share_url:
-    share_title:
-    share_link:
+- icon: youtube
+  url: https://youtube.com/user/bodhiconnolly
+  desc: Add me on youtube
+  share_url:
+  share_title:
+  share_link:
 
 
 
-  - icon:	instagram
-    url:	http://instagram.com/bodhiconnolly
-    desc:	Fork me on instagram
-    share_url:
-    share_title:
-    share_link:
+- icon:	instagram
+  url:	http://instagram.com/bodhiconnolly
+  desc:	Fork me on instagram
+  share_url:
+  share_title:
+  share_link:
 
-  - icon:	github
-    url:	https://github.com/bodhiconnolly
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+- icon:	github
+  url:	https://github.com/bodhiconnolly
+  desc:	Fork me on github
+  share_url:
+  share_title:
+  share_link:
 
 
 	
