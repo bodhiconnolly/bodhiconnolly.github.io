@@ -7,7 +7,7 @@ title: "Bodhi Connolly"
 description: > # this means to ignore newlines until "email:"
    A place to document projects from filmmaking to coding
 
-email: contact@bodhiconnolly.com
+email: 'contact@bodhiconnolly.com'
 #blog logo
 logo: "/assets/images/BC.jpg"
 # blog cover
