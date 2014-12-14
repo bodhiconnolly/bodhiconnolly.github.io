@@ -23,7 +23,7 @@ baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	email
+  - icon:	mail
     url:	mailto:contact@bodhiconnolly.com
     desc:	Email me
     share_url:
