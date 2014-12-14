@@ -44,6 +44,13 @@ social:
     share_title:
     share_link:
 
+  - icon:	instagram
+    url:	https://instagram.com/bodhiconnolly
+    desc:	Follow me on instagram
+    share_url:
+    share_title:
+    share_link:
+	
 #  - icon:	google-plus
 #    url:	https://google.com/???
 #    desc:	Add me on google+
