@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-![_config.yml]({{ site.baseurl }}/images/me.jpg)
+![Hiking in Tasmania]({{ site.baseurl }}/images/bodhi_tasmania.jpg)
+
