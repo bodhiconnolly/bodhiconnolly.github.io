@@ -1,11 +1,6 @@
-# Build settings
-markdown: redcarpet
-highlighter: pygments
-
-# Site settings
-title: "Bodhi Connolly"
+# Site 'Bodhi Connolly'
 description: > # this means to ignore newlines until "email:"
-   A place to document projects from filmmaking to coding
+	A place to document projects from filmmaking to coding
 
 email: 'contact@bodhiconnolly.com'
 #blog logo
