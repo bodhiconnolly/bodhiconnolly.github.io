@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="teaserimage">
-    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover }})"{% endif %}>
-        Teaser Image
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.404 }})"{% endif %}>
+        404 Image
     </div>
 </div>
 
@@ -12,8 +12,8 @@ layout: default
     {% if site.logo %}
       <a class="blog-logo" href="{{site.url}}" style="background-image: url('{{ site.logo }}')">{{ site.title }}</a>
     {% endif %}
-    <h1 class="blog-title">{{ site.title }}</h1>
-    <h2 class="blog-description">{{ site.description }}</h2>
+    <h1 class="blog-title">404</h1>
+    <h2 class="blog-description">That's an error.</h2>
     <div class="custom-links">
       {% for social in site.social %}
         {% if social.url %}
@@ -28,14 +28,3 @@ layout: default
       <a href="/Contact/">Contact</a>
     </div>
 </header>
-
-
-<main class="content" role="main">
-
-  <h1 class="error">404</h1>
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
-
-</main>
