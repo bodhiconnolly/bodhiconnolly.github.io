@@ -19,3 +19,34 @@ paginate: 5
 
 url: "http://bodhiconnolly.com" # the base hostname & protocol for your site
 baseurl: ""
+
+# social icons and sharing options
+# social:
+
+#  - icon:	facebook
+#    url:	https://facebook.com/???
+#    desc: Connect with me facebook
+#    share_url: //www.facebook.com/sharer.php
+#    share_title:
+#    share_link:
+
+- icon: youtube
+  url: https://youtube.com/user/bodhiconnolly
+  desc: Add me on youtube
+  share_url:
+  share_title:
+  share_link:
+
+- icon:	instagram
+  url:	http://instagram.com/bodhiconnolly
+  desc:	Fork me on instagram
+  share_url:
+  share_title:
+  share_link:
+
+- icon:	github
+  url:	https://github.com/bodhiconnolly
+  desc:	Fork me on github
+  share_url:
+  share_title:
+  share_link:
