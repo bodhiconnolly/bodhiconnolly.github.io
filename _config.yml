@@ -5,3 +5,12 @@ highlighter: pygments
 # Site 'Bodhi Connolly'
 description: > # this means to ignore newlines until "email:"
    A place to document projects from filmmaking to coding
+   
+email: 'contact@bodhiconnolly.com'
+#blog logo
+logo: "/assets/images/BC.jpg"
+# blog cover
+cover: "/assets/images/code.jpg"
+name: 'Bodhi Connolly'
+author: 'Bodhi Connolly'
+author_image: "/assets/images/author.jpg"
