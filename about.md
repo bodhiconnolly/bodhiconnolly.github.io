@@ -11,4 +11,3 @@ I'm first and foremost a mechatronic engineering student at the University of Qu
 I also have a passion for filmmkaing and work both as a freelance videographer and on personal films. These too will be documented on this site. 
 
 ![Hiking in Tasmania]({{ site.baseurl }}/assets/images/hiking_in_tasmania.jpg)
-
