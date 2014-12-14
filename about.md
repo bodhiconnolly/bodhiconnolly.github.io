@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 published: true
-image: /assets/article_images/about/hiking_tasmania_large.jpg
+image: /assets/article_images/about/hiking_tasmania_large2.jpg
 ---
 ## I love making things.
 
