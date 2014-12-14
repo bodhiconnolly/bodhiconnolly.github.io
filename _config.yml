@@ -5,16 +5,15 @@ highlighter: pygments
 # Site settings
 title: "Mediator"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   A place to document projects from arduinos to filmmaking
 
-email: a-mail@mail.mail
+email: contact@bodhiconnolly.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/BC.jpg"
 # blog cover
 cover: "/assets/images/code.jpg"
-
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+Bodhi Connolly'
+author: 'Bodhi Connolly'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
