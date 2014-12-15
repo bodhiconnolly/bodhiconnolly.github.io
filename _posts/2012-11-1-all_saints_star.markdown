@@ -4,7 +4,7 @@ title:  "All Saints Anglican School Star"
 date:   2012-11-1 14:34:25
 categories: photography
 #tags: featured
-image: /assets/article_images/2012-11-1-all_saints_star/chopper_gopro.JPG
+image: /assets/article_images/2012-11-1-all_saints_star/chopper_gopro.jpg
 ---
 
 Recently I was hired to shoot All Saints Anglican School's Guinness World Record attempt at the largest human star, part of their annual charity event Giveathon. This is my second time documenting a world record attempt (the first being a 100 x 100m freestyle relay, which still holds the record at the time of this post at 1:37:53 hours) and they are always a lot of fun, despite the stringent requirements set out by Guiness.
