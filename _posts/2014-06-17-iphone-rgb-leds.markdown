@@ -4,7 +4,7 @@ title:  "iPhone Controlled RGB LED Strip"
 date:   2014-08-29 14:34:25
 categories: arduino iphone led
 tags: 
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.jpg
+image: /assets/article_images/2014-06-17-iphone-rgb-leds/led_bedroom.jpg
 published: true
 ---
 I have a fetish for flashing lights. LEDs in particular take my fancy, and with the constantly dropping price of LED strips I decided it was the perfect time to add some mood lighting to my bedroom. 
@@ -19,32 +19,6 @@ To replace it I went straight for the Arduino Uno, my go to prototyping board. C
 
 ![LED wiring into the Uno courtesy of Adafruit]({{site.baseurl}}/assets/images/led_wiring.gif)
 
-I decided I would use UDP messages to communicate to the Uno just for simplicity. I chose semicolon separated values in the form of [action];[pin];[value]. For example, action zero is set, so if I wanted to set digital pin 13 to HIGH I would send 0;d13;1. To pwm pin 6 in would use 0;p6;128. It works. 
+I decided I would use UDP messages to communicate to the Uno just for simplicity. I chose semicolon separated values in the form of [action];[pin];[value]. For example, action zero is set, so if I wanted to set digital pin 13 to HIGH I would send 0;d13;1. To pwm pin 6 in would use 0;p6;128. Probably not the best way to do it but it works. 
 
-<a href="{{site.baseurl}}/assets/code/udp_led_arduino">I've uploaded my code.</a> It works, but originally I was building a multifunctional UDP control so there are plenty of unnecessary elements in there for this project. I hope to continue work and eventually have an Arduino controlled completely with my phone.
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
-
-{% highlight js %}
-
-<footer class="site-footer">
- <a class="subscribe" href="{{ "/feed.xml" | prepend: site.baseurl }}"> <span class="tooltip"> <i class="fa fa-rss"></i> Subscribe!</span></a>
-  <div class="inner">a
-   <section class="copyright">All content copyright <a href="mailto:{{ site.email}}">{{ site.name }}</a> &copy; 2014 &bull; All rights reserved.</section>
-   <section class="poweredby">Made with <a href="http://jekyllrb.com"> Jekyll</a></section>
-  </div>
-</footer>
-{% endhighlight %}
-
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+<a href="{{site.baseurl}}/assets/code/udp_led_arduino/">I've uploaded my code.</a> It works, but originally I was building a multifunctional UDP control so there are plenty of unnecessary elements in there for this project. I hope to continue work and eventually have an Arduino controlled completely with my phone.
