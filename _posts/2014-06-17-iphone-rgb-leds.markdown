@@ -21,4 +21,11 @@ To replace it I went straight for the Arduino Uno, my go to prototyping board. C
 
 I decided I would use UDP messages to communicate to the Uno just for simplicity. I chose semicolon separated values in the form of [action];[pin];[value]. For example, action zero is set, so if I wanted to set digital pin 13 to HIGH I would send 0;d13;1. To pwm pin 6 in would use 0;p6;128. Probably not the best way to do it but it works. 
 
-<a href="{{site.baseurl}}/assets/code/udp_led_arduino/">I've uploaded my code.</a> It works, but originally I was building a multifunctional UDP control so there are plenty of unnecessary elements in there for this project. I hope to continue work and eventually have an Arduino controlled completely with my phone.
+<a href="{{site.baseurl}}/assets/code/udp_led_arduino/">I've uploaded my code.</a> It works, but originally I was building a multifunctional UDP control so there are plenty of unnecessary elements in the command parser for this project. I hope to continue work and eventually have an Arduino controlled completely with my phone.
+
+For testing purposes I used a combination of a <a href="http://arduino.cc/en/Tutorial/UDPSendReceiveString">UDP Processing sketch</a> and a free iPhone app. Once I was sure the Arduino was working fine, I borrowed a friend's iMac and started learning Objective C.
+
+While the wiring and receiving code took me less than a day, writing the controller app took nearly a week. In that time I stepped through many simple tutorials from Apple until I thought I was ready to design a sender app that wasn't built horribly. 
+
+
+
