@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Shindig 2012 Promo"
+date:   2012-09-22 14:34:25
+categories: video
+tags: 
+image: /assets/article_images/2012-09-22-shindig-2012-promo/shindig-2012.jpg
+published: true
+---
+
+
+
+
+
+
+Here is the final product:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/MhNXXYaM7mA" frameborder="0" allowfullscreen></iframe>
