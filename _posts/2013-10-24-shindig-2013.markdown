@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Shindig Film Festival"
+date:   2013-10-24 14:34:25
+categories: diy
+tags: 
+image: /assets/article_images/2013-10-24-shindig-2013/shindig-2014.jpg
+published: true
+---
+
+I'm really not an event manager. But for the last few weeks that seems to be most of what I've been doing.
