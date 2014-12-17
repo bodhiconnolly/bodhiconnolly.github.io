@@ -14,6 +14,6 @@ Anyway, they're now in the marketing stage of their product and they hired me to
 
 The music is from the YouTube Audio Library which is a pretty neat resource, but they need to add some more content because I'm starting to hear the same songs a lot. The guys also had some previous phone footage of younger kids using the seahorse which they wanted to show. I tried to colour them before I put them in, and the consensus from friends was that they matched well enough. The setup shots were another last-minute addition to add variety and show some more info about the product. Some lights would've been nice as the boat ramp was in mottled sunlight but leveraging the low sun with natural lighting is good enough.   
 
-
+The video is below:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ocv-TKp1M84" frameborder="0" allowfullscreen></iframe>
