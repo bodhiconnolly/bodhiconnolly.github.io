@@ -10,7 +10,7 @@ published: true
 
 
 
-I've been dabbling in the aerial video field for a while now. I have some friends who build multirotors so adding a gimbal and a GoPro isn't too difficult. Personally I'm not skilled enough to fly and think about shots yet, but I've been practicing on a Blade Nano QX which is a great, inexpensive learning quad. 
+I've been dabbling in the aerial video field for a while now. I have some friends who build multirotors so adding a gimbal and a GoPro isn't too difficult. Personally I'm not skilled enough to fly and think about shots yet, but I've been practising on a Blade Nano QX which is a great, inexpensive learning quad. 
 
 But despite my lack of piloting skill I still wanted experience with some real-world video so I organised a shoot with a pilot. Check out the video, make sure you watch at 50fps! 
 
