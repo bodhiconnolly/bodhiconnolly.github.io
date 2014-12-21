@@ -21,7 +21,7 @@ After a year and a half they must have decided I was reliable enough to become t
 The camera is some JVC broadcast camera (maybe the GY-HM750, or at least something similar). It's big and heavy, but does a really good job at what it's meant to do. All the professional features are there, like customisable buttons, powered 14x zoom, built-in shoulder mount, eyepiece with zebras and focus peaking, plus every port you could think of. I'm sure there are way more broadcast features that I can't even appreciate. 
 
 
-![The press conference]({{site.baseurl}}/assets/images/skilled_press.jpg)
+![The press conference]({{site.baseurl}}/assets/images/titans_press.jpg)
 
 
 The other job I had to oversee was capturing the post-match press conference of both teams to be uploaded to the website. It would've been awesome if I was a fan of the sport, as I got to meet quite a few team captains over time, but I don't really follow it at all so the opportunities were wasted. Nonetheless it was interesting to see a professional press conference situation, and to notice the technological shift that occurred during my employment. When I started there were lots of mics on the table, tripods everywhere, and photographers with big lenses on monopods. By the time I finished most people were chucking their phones on the front table and hitting record. Fox still brought their broadcast camera but they were the only others. The reporters snapped away on their (other?) phones and there were no traditional cameras in sight. A lot can change in three years. The first year I worked their I was still shooting on tape. Thank goodness that changed. 
