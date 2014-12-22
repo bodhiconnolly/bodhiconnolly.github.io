@@ -4,8 +4,7 @@ title:  "Last Day Working for the Gold Coast Titans"
 date:   2013-08-24 14:34:25
 categories: video titans
 tags: 
-#image: /assets/article_images/13-08-24-titans-last-day/skilled_park.jpg
-image: /assets/images/giftest.gif
+image: /assets/article_images/13-08-24-titans-last-day/skilled_park.jpg
 published: true
 ---
 
