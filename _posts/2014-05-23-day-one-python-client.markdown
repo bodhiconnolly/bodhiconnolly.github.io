@@ -15,6 +15,7 @@ I document my life extensively through the wonderful journalling app <a href="ht
 Luckily, Day One syncs to the OSX app via Dropbox, so I can easily download my entries on the PC. Upon inspection, the .doentry files are simply plist documents. With this information in hand, I decided to use my CSSE1001 project to develop a Python client for syncing with the app. 
 
 The features of the app that I intended to emulate were:
+
 - Create a useable GUI
 - Sync entries with the Dropbox API
 - View, edit and add entries
@@ -68,3 +69,4 @@ While I did manage to migrate all the settings to a text file that is read at st
 This was the largest software project I have undertaken, coming in around 1200 lines of code. I wrote that in six days, and that was all I did for those six days other than eating and sleeping. It was an invaluable learning experience, and I am already seeing places where I could now go back and code them more efficiently. For those interested, the code is on GitHub.
 
 ![In the last thirty minutes I even made a splash screen]({{site.baseurl}}/assets/images/day_one_splash.png)
+
