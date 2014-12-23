@@ -15,14 +15,14 @@ I document my life extensively through the wonderful journalling app <a href="ht
 Luckily, Day One syncs to the OSX app via Dropbox, so I can easily download my entries on the PC. Upon inspection, the .doentry files are simply plist documents. With this information in hand, I decided to use my CSSE1001 project to develop a Python client for syncing with the app. 
 
 The features of the app that I intended to emulate were:
--Create a useable GUI
--Sync entries with the Dropbox API
--View, edit and add entries
--View metadata attached to entries such as date, time, location, weather, and favourites
--Add location metadata via reverse geocoding and download local weather information
--Attach photos to the entries from file or from the webcam
--Include some user-changeable settings
--Work across all major platforms
+- Create a useable GUI
+- Sync entries with the Dropbox API
+- View, edit and add entries
+- View metadata attached to entries such as date, time, location, weather, and favourites
+- Add location metadata via reverse geocoding and download local weather information
+- Attach photos to the entries from file or from the webcam
+- Include some user-changeable settings
+- Work across all major platforms
 
 #GUI
 
