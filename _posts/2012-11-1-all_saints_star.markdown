@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "All Saints Anglican School Star"
+title:  "Photographing the World's Largest Human Star"
 date:   2012-11-1 14:34:25
 categories: photography
 #tags: featured
