@@ -2,7 +2,7 @@
 layout: post
 title:  "Writing a Dropbox Powered Day One Python Client"
 date:   2014-05-23 14:34:25
-categories: video
+categories: coding python
 tags: 
 image: /assets/article_images/2014-05-23-day-one-python-client/python_code.jpg
 published: true
