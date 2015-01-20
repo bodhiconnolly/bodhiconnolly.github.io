@@ -16,7 +16,7 @@ This is the second year we attempted to roll our own voting system for the Shind
 
 This year we wanted to create something a little more polished. The main improvement was offloading the processing onto a computer rather than the underpowered phone. I had a spare 3G Telstra USB dongle which had been replaced with an LTE model, which can technically send and receive texts despite not being made for this purpose. Since we only needed to receive texts we didn't even need any credit, so a $2 prepaid sim was the only cost. It had to be Telstra because the dongle was locked.
 
-![The GSM modem at the heart of the operation]({{site.baseurl}}/assets/images/usb_dongle.jpg)
+![The GSM modem at the heart of the operation]({{site.baseurl}}/assets/images/usb_dongle.JPG)
 
 The project hinged on SMS Server Tools 3 - a piece of software that acted as a gateway from the modem to the computer. It harvests the incoming messages and stores them as text files with metadata such as timestamp and from address. It is designed for unix-based operating systems but can be run on Windows with cygwin. Our dongle wasn't on the list of supported devices but the software uses standard AT commands so works with most devices. Ours worked without issue. 
 
