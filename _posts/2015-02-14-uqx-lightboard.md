@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "UQx Lightboard"
-date:   2015-02-14 14:34:25
+title: UQx Lightboard
+date: {}
 categories: video quadcopter
-tags: 
-image: /assets/article_images/2015-02-14-uqx-lightboard/uqx_lightboard.jpg
+tags: null
+image: "/assets/article_images/2015-02-14-uqx-lightboard/uqx_lightboard.jpg"
 published: true
 ---
-
 
 One of the goals of the University of Queensland's learning innovation lab <a href="">where I spent my summer</a> is creating engaging videos for <a href="https://www.edx.org/school/uqx">MOOCs</a> and the <a href="http://www.uq.edu.au/tediteach/flipped-classroom/what-is-fc.html">flipped classroom</a>. We have a multiplicity of tools to accomplish this, from basics like chroma keys and tablets to advanced 3D animation, but we're always looking for more tricks to put up our sleeve. 
 
