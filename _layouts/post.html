@@ -70,8 +70,8 @@
               <h4>{{ site.author }}</h4>
               <p class="bio">{{author.bio}}</p>
               <hr>
-              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p>
-              <section class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</section>
+              <p class="published">Published <time datetime="{{ page.date | date: "%F %R" }}">{{ page.date | date_to_string }}</time></p><br>
+              <div class="copyright">All content copyright <a href="{{@blog.url}}/">{{site.author}}</a> &copy; {{ site.time | date: '%Y' }}<br>All rights reserved.</div>
             </section>
           </div>
           {{/post}}

@@ -2,7 +2,7 @@
 layout: post
 title: UQx Lightboard
 date: 2015-02-14
-categories: video quadcopter
+categories: uqx video
 tags: null
 image: "/assets/article_images/2015-02-14-uqx-lightboard/uqx_lightboard.jpg"
 published: true
