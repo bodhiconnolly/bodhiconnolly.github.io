@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UQx Lightboard
-date: {}
+date: 2015-02-14
 categories: video quadcopter
 tags: null
 image: "/assets/article_images/2015-02-14-uqx-lightboard/uqx_lightboard.jpg"
