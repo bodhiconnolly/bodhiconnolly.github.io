@@ -8,7 +8,7 @@ image: "/assets/article_images/2015-02-14-uqx-lightboard/uqx_lightboard.jpg"
 published: true
 ---
 
-One of the goals of the University of Queensland's learning innovation lab <a href="">where I spent my summer</a> is creating engaging videos for <a href="https://www.edx.org/school/uqx">MOOCs</a> and the <a href="http://www.uq.edu.au/tediteach/flipped-classroom/what-is-fc.html">flipped classroom</a>. We have a multiplicity of tools to accomplish this, from basics like chroma keys and tablets to advanced 3D animation, but we're always looking for more tricks to put up our sleeve. 
+One of the goals of the University of Queensland's learning innovation lab <a href="{{site.baseurl}}/uqx/2015/02/13/uqx.html">where I spent my summer</a> is creating engaging videos for <a href="https://www.edx.org/school/uqx">MOOCs</a> and the <a href="http://www.uq.edu.au/tediteach/flipped-classroom/what-is-fc.html">flipped classroom</a>. We have a multiplicity of tools to accomplish this, from basics like chroma keys and tablets to advanced 3D animation, but we're always looking for more tricks to put up our sleeve. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aHt9C5rb-Wg" frameborder="0" allowfullscreen></iframe>
 
@@ -37,13 +37,15 @@ The glass and spigots actually came from a local pool fencing shop. It was the c
 
 
 The construction for this board is pretty self-explanatory, but I'll provide an outline:
-1. Create an I-shaped base. 
+
+1. Create an I-shaped base.
 2. Attach spigots.
 3. Insert glass.
-4. Surround glass with LEDs. 
+4. Surround glass with LEDs.
 5. Tape LEDs to frame.
+6. Clean glass (this is the hardest step!).
 
-
+![The LED controller and 44 key IR remote]({{site.baseurl}}/assets/images/led_controller.jpg)
 ##The science
 
 The reason why the LEDs light up the text, but not the rest of the glass, is really interesting. Most people have heard of total internal reflection. When you shine a light through the edge of a pane of glass, the light  bounce along, and each time the beam hits the side of the pane it has an angle of incidence that is close to 180 degrees, and always greater than the critical angle. So the light is totally internally reflected, and never escapes through the glass. When you look at this from the opposite end of the glass, it looks pretty cool.
@@ -53,6 +55,16 @@ The reason why the LEDs light up the text, but not the rest of the glass, is rea
 But that's just high school physics. What makes the text shine is _frustrated_ total internal reflection. When a third medium is placed between the glass and air, it allows the light to escape, illuminating the text. This works just as well for other objects.
 
 ![Frustrated total internal reflection isn't just for neon markers]
+
+##The rest of the setup
+
+The camera we are shooting on is the lovely Panasonic HC-X1000. It shoots in 4K, allowing us to shoot with the lightboard frame in shot, and then crop it out in post while still mastering higher than 1080p. We have two new Dell 27" 4K monitors, so we can watch in 4K as we shoot and less-than-4K-but-higher-than-1080p when we edit.
+
+Lights on the talent are ikan LED panels, in a simple three point setup. Lapel mic to get high fidelity audio behind the glass.
+
+##Improvements
+
+Todo: Backlight, squeak, cleaning, sticky templates
 
 ##Outcome
 
