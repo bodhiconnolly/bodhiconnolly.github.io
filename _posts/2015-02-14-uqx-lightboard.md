@@ -22,6 +22,7 @@ Northwestern University lecturer Michael Peshkin has created one such trick. It'
 
 So, the total cost of this lightboard? $255. Broken down, that's:
 
+
 |Material|Cost|
 |:-----|-----:|
 |Tempered glass (1200x800x8mm) | $60|
@@ -31,6 +32,7 @@ So, the total cost of this lightboard? $255. Broken down, that's:
 |Liquid chalk markers | $20|
 |Misc screws, tape, etc | $5|
 
+<br>
 The glass and spigots actually came from a local pool fencing shop. It was the cheapest, easiest solution we found. The sturdier, more flexible option for a frame is T-Slot aluminum, however this turned out to be prohibitively expensive for the prototype. 
 
 
