@@ -54,7 +54,7 @@ The reason why the LEDs light up the text, but not the rest of the glass, is rea
 
 But that's just high school physics. What makes the text shine is _frustrated_ total internal reflection. When a third medium is placed between the glass and air, it allows the light to escape, illuminating the text. This works just as well for other objects.
 
-![Frustrated total internal reflection isn't just for neon markers]({{site.baseurl}}/assets/images/finger_ftir.jpg)
+![Frustrated total internal reflection isn't just for neon markers]({{site.baseurl}}/assets/images/hand_ftir.jpg)
 
 ##The rest of the setup
 
