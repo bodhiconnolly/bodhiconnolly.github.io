@@ -25,7 +25,7 @@ So, the total cost of this lightboard? $255. Broken down, that's:
 
 |Material|Cost|
 |:-----|-----:|
-|Tempered glass (1200x800x8mm) | $60|
+|Tempered glass (1200x800x12mm) | $60|
 |2x Glass-holding spigot | $120 |
 |5M 5050 RGB LED strip (w/ controller and PSU) | $30 |
 |Wood for base | $20|
