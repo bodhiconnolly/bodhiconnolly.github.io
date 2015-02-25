@@ -64,7 +64,7 @@ Lights on the talent are ikan LED panels, in a simple three point setup. Lapel m
 
 ##Improvements
 
-Coming soon: Backlight, squeak, cleaning, electrostatic sticky templates
+Coming soon: need for a backlight, squeak, cleaning, electrostatic sticky templates
 
 ##Outcome
 
