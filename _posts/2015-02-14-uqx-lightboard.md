@@ -48,7 +48,7 @@ The construction for this board is pretty self-explanatory, but I'll provide an 
 ![The LED controller and 44 key IR remote]({{site.baseurl}}/assets/images/led_controller.jpg)
 ##The science
 
-The reason why the LEDs light up the text, but not the rest of the glass, is really interesting. Most people have heard of total internal reflection. When you shine a light through the edge of a pane of glass, the light  bounces along, and each time the beam hits the side of the pane it has an angle of incidence that is close to 180 degrees, and always greater than the critical angle. So the light is totally internally reflected, and never escapes through the glass. When you look at this from the opposite end of the glass, it looks pretty cool.
+The reason why the LEDs light up the text, but not the rest of the glass, is really interesting. Most people have heard of total internal reflection. When you shine a light through the edge of a pane of glass, the light  bounces along, and each time the beam hits the side of the pane it has an angle of incidence that is close to 90 degrees, and always greater than the critical angle. So the light is totally internally reflected, and never escapes through the glass. When you look at this from the opposite end of the glass, it looks pretty cool.
 
 ![Total internal reflection in action!]({{site.baseurl}}/assets/images/ftir.jpg)
 
@@ -64,7 +64,7 @@ Lights on the talent are ikan LED panels, in a simple three point setup. Lapel m
 
 ##Improvements
 
-Coming soon: Backlight, squeak, cleaning, sticky templates
+Coming soon: Backlight, squeak, cleaning, electrostatic sticky templates
 
 ##Outcome
 

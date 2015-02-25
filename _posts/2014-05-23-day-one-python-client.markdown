@@ -56,7 +56,7 @@ Once a location is entered the application sends the coordinates to OpenWeatherM
 
 #Webcam
 
-This was frustrating. I spent hours playing around with the popular OpenCV tools, an while I could get them to work in TKinter they would not play nice with wx. I experienced low frame rates and weird bugs where only a 10 by 10px section of the feed would update. In the end I decided to cut my losses and use the Win32 plugin VideoCapture. It worked perfectly on Windows, but not at all on anything else. And it looks horrible. If I have more time this will be the first omission I go back and rectify. 
+This was frustrating. I spent hours playing around with the popular OpenCV tools, and while I could get them to work in TKinter they would not play nice with wx. I experienced low frame rates and weird bugs where only a 10 by 10px section of the feed would update. In the end I decided to cut my losses and use the Win32 plugin VideoCapture. It worked perfectly on Windows, but not at all on anything else. And it looks horrible. If I have more time this will be the first omission I go back and rectify. 
 
 ![At least OSX and Linux users won't have to see this...]({{site.baseurl}}/assets/images/day_one_photo.jpg)
 
