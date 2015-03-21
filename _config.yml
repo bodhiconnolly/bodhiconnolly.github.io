@@ -29,7 +29,7 @@ baseurl: ""
 social:
   - icon:	youtube
     url:	https://youtube.com/user/bodhiconnolly
-    desc:	Subscribe on youube
+    desc:	Subscribe on youtube
     share_url:
     share_title:
     share_link:
@@ -44,6 +44,12 @@ social:
   - icon:	github
     url:	https://github.com/bodhiconnolly
     desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+  - icon:	linkedin
+    url:	http://linkedin.com/in/bodhiconnolly
+    desc:	Connect on linkedin
     share_url:
     share_title:
     share_link:
