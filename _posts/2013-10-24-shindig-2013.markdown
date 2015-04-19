@@ -2,31 +2,37 @@
 layout: post
 title:  "Organising a Film Festival"
 date:   2013-10-24 14:34:25
-categories: diy
+categories: film
 tags: 
 image: /assets/article_images/2013-10-24-shindig-2013/shindig-2013.jpg
 published: true
 ---
 
-I'm really not an event manager. But for the last few weeks that seems to be most of what I've been doing.
+I'm really not an event manager. But for the last few weeks that's what I've been doing.
 
 #The Cinema
 Shindig is a school film festival. But whereas most schools will put up a projector in a lecture hall and call it a film festival, we strive for a more cinematic experience. Last year we moved the venue to Event Cinemas Robina and the change in atmosphere was palpable. It significantly raised the quality of the films. 
 
-This year we didn't drop the standard and again found ourselves at Event Cinemas. Hiring out a cinema for the night is about $1000. There is the option of upgrading to Vmax, but that's an extra $500 and it really doesn't offer us anything extra, what we really need is more seats. In fact, the non-Vmax cinema we are in actually meets the Vmax spec, however the cinemas didn't want to dilute the Vmax name by having two in the one complex. The projector has a wide range of inputs that you'd expect from a prodcut of this calibre. We only display our content at 2k resolution and have nothing in 3D so we simply plug a beefy MacBook Pro in through DVI. Someone sits up there and makes sure the movies play smoothly. All the submissions are re-rendered in a single timeline with aspect ratios and volume difference taken care of so all that really needs to be done is press pause during interval. 
 
-The cinema plays all their content remotely, with the films streaming in via ethernet from a secure server. It was interesting to see how modern films are delivered - they send a hard drive with a heavily encrypted copy of the movie that comes in at about 300GB. Each frame is a 25MB uncompressed TIFF. The movie is uploaded to the cinema server which has the ability to decrypt and play it. The playback is all set up on a remote schedule so there is really not much oversight needed. Robina has one projectionist but throughout the day there's not really much to do. 
+![They let us put our own movie posters up on the TVs!]({{site.baseurl}}/assets/images/robina_cinemas.jpg)
+This year we didn't drop the standard and again found ourselves at Event Cinemas. Hiring out a cinema for the night is about $1000. There is the option of upgrading to Vmax, but that's an extra $500 and it really doesn't offer us anything extra, what we really need is more seats. In fact, the non-Vmax cinema we are in actually meets the Vmax spec, however the cinemas didn't want to dilute the Vmax name by having two in the one complex. The projector has a wide range of inputs that you'd expect from a product of this calibre. We only display our content at 2k resolution and have nothing in 3D so we simply plug a beefy MacBook Pro in through DVI. Someone sits up there and makes sure the movies play smoothly. All the submissions are re-rendered in a single timeline with aspect ratios and volume difference taken care of so all that really needs to be done is press pause during interval. 
+
+The cinema plays all their content remotely, with the films streaming in via ethernet from a secure server. It was interesting to see how modern films are delivered - they send a hard drive with a heavily encrypted copy of the movie that comes in at about 300GB. The movie is uploaded to the cinema server which has the ability to decrypt and play it. The playback is all set up on a remote schedule so there's not much oversight needed. Robina has one projectionist but throughout the day there's not really much to do. 
 
 #The Booking
-The cinema has around 380 seats. Twenty of these seats are taken by non-paying school officials which leaves 360. We sell the seats using the ticketing system at <a href="trybooking.com">trybooking</a> which lets us upload a seating plan and gives the user a nice way to interact with the available seats. We set the ticket price at $10 and they charge a 30c booking fee. This year the event sold out in about a week, markedly faster than last year. Now that's a good sign. By the time the cinema booking, administration and gear costs are covered we've made just over $2000 which is donated to charity. 
+The cinema has around 380 seats. Twenty of these seats are taken by non-paying school officials which leaves 360. We sell the seats using the ticketing system at <a href="http://trybooking.com">trybooking</a> which lets us upload a seating plan and gives the user a nice way to interact with the available seats. We set the ticket price at $10 and they charge a 30c booking fee. This year the event sold out in about a week, markedly faster than last year. Now that's a good sign. By the time the cinema booking, administration and gear costs are covered we've made just over $2000 which is donated to charity. 
 
+![Tickets going fast]({{site.baseurl}}/assets/images/shindig_seats.jpg)
 #Sound
 Sound is one of the hardest things to get right in a film, and most of the filmmakers have never shot anything to be played in a real cinema. There is a small window to test, but most don't take advantage of this. The MBP only puts out stereo audio, but we haven't ever had anyone who had mixed in 5.1 or anything higher. If we needed to output surround sound it wouldn't be difficult to change the driver to something that could. 
 
-Volume is controlled next to the projector, however this area is only connected to the actual cinema with three small windows, two of which are closed. It is essentially impossible to tell if the audio level is correct from up here. Instead, we have someone in the cinema with a walkie talkie who tells the operator to turn the volume up or down. With more planning we could set the levels exactly before starting playback however time is not a luxury we have. 
+Volume is controlled next to the projector, however this area is only connected to the actual cinema with three small windows, two of which are closed. It is essentially impossible to tell if the audio level is correct from up here. Instead, we have someone in the cinema with a walkie talkie who tells the operator to turn the volume up or down. With more planning we could set the levels exactly before starting playback however time is not a luxury we had. 
 
 #Voting
-We have a viewers' choice award which is announced on the night as a result of live polling. Rather than pay for an SMS voting service we decided to build our own. It basically consisted of a script harvesting incoming messages from a USB modem and then inserting them into a database before graphing them in real-time with Ajax. <a href="{{site.baseurl}}/diy/2013/10/24/sms-voting-system.html">That project is documented here.</a>
+We have a viewers' choice award which is announced on the night as a result of live polling. Rather than pay for an SMS voting service we decided to build our own. It basically consisted of a script harvesting incoming messages from a USB modem and then inserting them into a database before graphing them in real-time with Ajax. <a href="{{site.baseurl}}/diy/2013/10/25/sms-voting-system.html">That project is documented here.</a>
 
+![The voting slide]({{site.baseurl}}/assets/images/voting_screen.jpg)
 #Conclusions
-I'm constantly surprised at how much better student films look up on the big screen. There was a lot of talent displayed, with some students using DSLRs to produce really filmic images and some using computer imagery combined with stop-motion animation. As an event it went smoothly, and the audience really got into it. Anything the let's young filmmakers display their talent is a good thing. A great night!
+I'm constantly surprised at how much better student films look up on the big screen. There was a lot of talent displayed, with some students using DSLRs to produce really filmic images and some using computer imagery combined with stop-motion animation. As an event it went smoothly, and the audience really got into it. Anything the lets young filmmakers display their talent is a good thing. A great night!
+
+![The filmmakers!]({{site.baseurl}}/assets/images/shindig_filmmakers.jpg)
