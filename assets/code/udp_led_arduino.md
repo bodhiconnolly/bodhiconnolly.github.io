@@ -6,7 +6,7 @@ published: true
 #image: /assets/article_images/about/hiking_tasmania_large3.jpg
 ---
 <br>
-<a href="{{site.baseurl}}/arduino/iphone/led/2014/08/30/iphone-rgb-leds.html">Related project.</a>
+<a href="{{site.baseurl}}/arduino/iphone/led/2014/08/29/iphone-rgb-leds.html">Related project.</a>
 {% highlight c++ %}
 #include <SPI.h>         
 #include <Ethernet.h>
