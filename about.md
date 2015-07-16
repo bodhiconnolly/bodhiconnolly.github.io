@@ -7,8 +7,12 @@ published: true
 ---
 ## I love making things.
 
-I'm first and foremost a mechatronic engineering student at the University of Queensland, Australia. Focussing on the harmony of software and electrical components, I love nothing more than when code is brought alive in the physical realm. Aside from university activities I enjoy taking on extra projects in this area (particularly when flashing lights are involved!) and will be documenting such projects here.
+I'm both an online video creative and engineering student.
 
-I also have a passion for filmmaking and work both as a freelance videographer and on personal films. These too will be documented on this site. 
+I work as a freelancer on a wide variety of video projects, from functions and events to apps, real estate and startups. These are normally for online campaigns - I can work with an existing marketing strategy or work with you to create one. 
+
+I'm also studying mechatronic engineering student at the University of Queensland, Australia. I focus on the harmony of software and electronics, and love nothing more than when code is brought alive in the physical realm. 
+
+I try to document projects from both of these interests on the blog. 
 
 ![Hiking in Tasmania]({{ site.baseurl }}/assets/images/hiking_in_tasmania.jpg)

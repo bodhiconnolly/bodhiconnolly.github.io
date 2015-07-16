@@ -7,7 +7,7 @@ highlighter: pygments
 # Site settings
 title: "Bodhi Connolly"
 description: > # this means to ignore newlines until "email:"
-   A place for projects from coding to filmmaking
+   online video creative // engineering student
 email: contact@bodhiconnolly.com
 #blog logo
 logo: "/assets/images/BC.jpg"
@@ -53,4 +53,3 @@ social:
     share_url:
     share_title:
     share_link:
-
