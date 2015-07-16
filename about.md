@@ -11,7 +11,7 @@ I'm both an online video creative and engineering student.
 
 I work as a freelancer on a wide variety of video projects, from functions and events to apps, real estate and startups. These are normally for online campaigns - I can work with an existing marketing strategy or work with you to create one. 
 
-I'm also studying mechatronic engineering student at the University of Queensland, Australia. I focus on the harmony of software and electronics, and love nothing more than when code is brought alive in the physical realm. 
+I'm also studying mechatronic engineering at the University of Queensland, Australia. I focus on the harmony of software and electronics, and love nothing more than when code is brought alive in the physical realm. 
 
 I try to document projects from both of these interests on the blog. 
 
