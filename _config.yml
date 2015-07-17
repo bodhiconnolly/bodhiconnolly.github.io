@@ -5,10 +5,10 @@ redcarpet:
 highlighter: pygments
 
 # Site settings
-title: "Bodhi Connolly"
+title: "Blog by BC"
 description: > # this means to ignore newlines until "email:"
-   online video creative // engineering student
-email: contact@bodhiconnolly.com
+   A place for projects from coding to filmmaking
+email: hello@bodhiconnolly.com
 #blog logo
 logo: "/assets/images/BC.jpg"
 # blog cover
@@ -22,7 +22,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	100
 
-url: "http://bodhiconnolly.com" # the base hostname & protocol for your site
+url: "http://blog.bodhiconnolly.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
@@ -53,3 +53,4 @@ social:
     share_url:
     share_title:
     share_link:
+
