@@ -27,8 +27,7 @@ baseurl: ""
 
 # social icons and sharing options
 social:
- 
-   - icon:	twitter
+   - icon: twitter
     url:	http://twitter.com/bodhiconnolly
     desc:	Follow me on Twitter
     share_url:
@@ -42,15 +41,13 @@ social:
     share_title:
     share_link:
  
- 
   - icon:	instagram
     url:	https://instagram.com/bodhiconnolly
     desc:	Follow me on Instagram
     share_url:
     share_title:
     share_link:
-
-	 - icon:	youtube
+ - icon:	youtube
     url:	https://youtube.com/user/bodhiconnolly
     desc:	Subscribe on YouTube
     share_url:
