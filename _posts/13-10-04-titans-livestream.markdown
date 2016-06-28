@@ -20,5 +20,5 @@ The switcher output went out as HDMI into a Blackmagic Extreme HDMI to Thunderbo
 
 ![It's magic, I tell you.]({{site.baseurl}}/assets/images/blackmagic_box_web.jpg)
 
-Were there hiccups? Yes, a few. Did they stop a couple of thousand people tuning in? No, it did not.
+Were there hiccups? Yes, a few. Did they stop a couple of thousand people tuning in? No, they did not.
 

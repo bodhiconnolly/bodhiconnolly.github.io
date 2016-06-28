@@ -13,13 +13,13 @@ This year I had the enjoyable experience of writing and directing the promo vide
 <iframe width="560" height="315" src="//www.youtube.com/embed/MhNXXYaM7mA" frameborder="0" allowfullscreen></iframe>
 
 <br>
-We had lots of ideas, but ended up creatng a parody of the famous Old Spice ad "I'm on a Horse". Unfortunately we didn't have the amazing 'shifting set' that they used for the original, but we decided to do the best we could with little tricks and vfx.
+We had lots of ideas, but ended up creating a parody of the famous Old Spice ad "I'm on a Horse". Unfortunately we didn't have the amazing 'shifting set' that they used for the original, but we decided to do the best we could with little tricks and vfx.
 
 We found a friend who owned a horse, so that was sorted. The festival was being shown at Event Cinemas Robina and we wanted to show that off by shooting in that venue. Luckily the local manager really liked our idea when we approcached him and was happy to give us access an hour before the cinemas opened, which was plenty for us to get the two shots we needed. 
 
-We didn't want to track the horse shot onto the projector screen so we had to have that shot and the final titles applied before we went to the cinemas. The titles were made in After Effects with the new 3D text engine in CS6. This was incredibly slow on the laptop I was using. I was using a laptop because they were rendering on the drive to the cinema shoot. Ouch.
+We didn't want to track the horse shot onto the projector screen so we had to have that shot and the final titles applied before we went to the cinemas. The titles were made in After Effects with the new 3D text engine in CS6. This was incredibly slow on the laptop I was using. I was using a laptop because we were rendering on the drive to the cinema shoot. Ouch.
 
-We boomed all the audio, but we were rushing in the cinema and hadn't noticed that one of the Rode VideoMic's elastic bands had come loose, and that auudio was ruined. Luckily there wasn't too much dialog so we ADRed it. And then it didn't fit in with the rest of the audio, so we ended up ADRing the whole thing. 
+We boomed all the audio, but we were rushing in the cinema and hadn't noticed that one of the Rode VideoMic's elastic bands had come loose, and that audio was ruined. Luckily there wasn't too much dialog so we ADRed it. And then it didn't fit in with the rest of the audio, so we ended up ADRing the whole thing. 
 
 The vfx was pretty quick, just needed to mask the pole in the first transition, cover up some weird vents on a cinema wall, match together the cinema cut and add a camera overlay. 
 

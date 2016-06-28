@@ -18,7 +18,7 @@ But despite my lack of piloting skill I still wanted experience with some real-w
 <br>
 Obviously the first concern with shooting at a school is safety. We were shooting on a weekend and there was almost nobody around, plus we had a member of staff with us at all times.
 
-The first shots are out over the school wetland facilities. This is where we tested and calibrated all the gear before flying near any buildings. The GoPro 3+ was on a two-axis gimbal mounted to a custom built quad. With the paylod flight time was about eight minutes, but luckily batteries are inexpensive. Unfortunately flying anything but a little action camera is prohibitively expensive when I'm not getting paid but hopefully I get a chance to work with something bigger on a real shoot.
+The first shots are out over the school wetland facilities. This is where we tested and calibrated all the gear before flying near any buildings. The GoPro 3+ was on a two-axis gimbal mounted to a custom built quad. With the payload flight time was about eight minutes, but luckily batteries are inexpensive. Unfortunately flying anything but a little action camera is prohibitively expensive when I'm not getting paid but hopefully I get a chance to work with something bigger on a real shoot.
 
 ![Reviewing the first shot]({{site.baseurl}}/assets/images/quad_laptop.jpg)
 
