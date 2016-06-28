@@ -28,7 +28,7 @@ Rather than trying to analyse the entire 50 minutes of audio at once, I break it
 
 2. It is more applicable to real time processing. The end goal is to have an IoT network of these devices that can monitor rooms in real time. This breakdown method means the device can report preliminary results every 30 seconds.
 
-##The Breakdown 
+## The Breakdown 
     
 Each recording gets broken down into the 30 second segments. After processing, the result is a timeline of classifications over the length of the recording. Below is an example timeline from a lecture.
 
@@ -49,7 +49,7 @@ The solution to this is to have a percentage threshold for each activity. While 
 
 Once these breakdowns are tuned with more data from across faculties, the problem then becomes classifying each segment of audio.
  
-##Classifying Segments
+## Classifying Segments
 
 
 This is where I had particular difficulty in 2014, and have recently had more success ([this new paper](https://arxiv.org/ftp/arxiv/papers/1602/1602.08507.pdf) in particular helped a lot - they're trying to achieve something similar, counting the number of people with audio for efficient use of HVAC). Processing was completed in MATLAB primarily using the Signal Processing Toolbox. 
