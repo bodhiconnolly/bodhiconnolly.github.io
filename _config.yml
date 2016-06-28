@@ -5,7 +5,7 @@ redcarpet:
 highlighter: pygments
 
 # Site settings
-title: "Blog by BC"
+title: "Projects by BC"
 description: > # this means to ignore newlines until "email:"
    A place for projects from coding to filmmaking
 email: hello@bodhiconnolly.com
@@ -22,35 +22,40 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	100
 
-url: "http://blog.bodhiconnolly.com" # the base hostname & protocol for your site
+url: "http://projects.bodhiconnolly.com" # the base hostname & protocol for your site
 baseurl: ""
 
 # social icons and sharing options
 social:
-  - icon:	youtube
-    url:	https://youtube.com/user/bodhiconnolly
-    desc:	Subscribe on youtube
+ 
+   - icon:	twitter
+    url:	http://twitter.com/bodhiconnolly
+    desc:	Follow me on Twitter
     share_url:
     share_title:
     share_link:
-
-  - icon:	instagram
-    url:	https://instagram.com/bodhiconnolly
-    desc:	Follow me on instagram
-    share_url:
-    share_title:
-    share_link:
-
-  - icon:	github
-    url:	https://github.com/bodhiconnolly
-    desc:	Fork me on github
-    share_url:
-    share_title:
-    share_link:
+ 
   - icon:	linkedin
     url:	http://linkedin.com/in/bodhiconnolly
-    desc:	Connect on linkedin
+    desc:	Connect on LinkedIn
     share_url:
     share_title:
     share_link:
+ 
+ 
+  - icon:	instagram
+    url:	https://instagram.com/bodhiconnolly
+    desc:	Follow me on Instagram
+    share_url:
+    share_title:
+    share_link:
+
+	 - icon:	youtube
+    url:	https://youtube.com/user/bodhiconnolly
+    desc:	Subscribe on YouTube
+    share_url:
+    share_title:
+    share_link:
+	
+
 
