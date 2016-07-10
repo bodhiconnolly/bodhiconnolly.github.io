@@ -2,7 +2,7 @@
 layout: post
 title: Drone Rowing Livestream
 date: 2016-05-22
-categories: uq
+categories: drone video
 tags: null
 image: "/assets/article_images/2016-05-22-rowing-livestream/rowing_above.jpg"
 published: true
