@@ -12,7 +12,7 @@ Wild dogs are a massive problem for farmers in Queensland. In the short to mediu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jzd53KtTC0g" frameborder="0" allowfullscreen></iframe>
 <br>
-Currently farmers use a few strategies to mitigate the issue: dropping bait from helicopters, setting bait on the ground, and walking around with a rifle. None of these are very effective. Placing bait from the ground is slow and untargeted, dropping bait from the air is fast but untargeted, and shooting the dogs is very targeted but isn't at all scalable. Indiscriminately baiting is more likely to effect the native goanna populations than the dogs.
+Currently farmers use a few strategies to mitigate the issue: dropping bait from helicopters, setting bait on the ground, and walking around with a rifle. These strategies are somewhat effective, but all have major issues. Placing bait from the ground is slow and untargeted, dropping bait from the air is fast but untargeted, and shooting the dogs is very targeted but isn't at all scalable. Indiscriminately baiting is more likely to effect the native goanna population than the dogs.
 
 The solution to this problem needs to be targeted and scalable. And it needs drones.
 
